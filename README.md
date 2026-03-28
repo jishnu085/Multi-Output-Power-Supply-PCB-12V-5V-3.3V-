@@ -49,13 +49,21 @@ A combination of bulk electrolytic capacitors and ceramic capacitors is used to 
 
 ## 📷 PCB Design
 
-### Top Layer
+### Schematic
+![Schematic](Dual-Stage%20Step-Down%20Power%20Supply%20(12V%20to%205V)%20-%20Copy/images/3d3.png)
 
-*(Add your PCB screenshot here)*
 
-### 3D View
+### Layout
 
-*(Add your 3D render here)*
+![Layout](Dual-Stage%20Step-Down%20Power%20Supply%20(12V%20to%205V)%20-%20Copy/images/3d.png)
+
+### 3D View 1
+
+![3D view](Dual-Stage%20Step-Down%20Power%20Supply%20(12V%20to%205V)%20-%20Copy/images/3d1.png)
+
+### 3D View 2
+
+![3D view](Dual-Stage%20Step-Down%20Power%20Supply%20(12V%20to%205V)%20-%20Copy/images/3d2.png)
 
 ---
 
