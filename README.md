@@ -1,4 +1,3 @@
-# Multi-Output-Power-Supply-PCB-12V-5V-3.3V-
 
 
 # Multi-Output Power Supply PCB (12V → 5V → 3.3V)
